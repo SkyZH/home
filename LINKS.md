@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Links
 
 ## Team Links
@@ -70,7 +69,3 @@ Notifications: https://zodiacefz.slack.com/messages/notification/
 ## Internal System
 
 None
-=======
-# home
-Home of Zodiac
->>>>>>> origin/master
