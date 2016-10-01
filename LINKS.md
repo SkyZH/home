@@ -66,6 +66,10 @@ CAD: https://zodiacefz.slack.com/messages/cad/
 
 Notifications: https://zodiacefz.slack.com/messages/notification/
 
+## Calendar
+
+FRC Updates: xxx@google.com
+
 ## Internal System
 
-None
+Google Admin: https://admin.google.com
