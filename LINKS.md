@@ -36,6 +36,24 @@ Contacts: contacts.google.com
 
 All Team Contacts: https://contacts.google.com/preview/directory
 
+## Google Groups
+
+Everyone: https://groups.google.com/a/withzodiac.com/forum/#!forum/everyone
+
+Admin Team: https://groups.google.com/a/withzodiac.com/forum/#!forum/team
+
+CAD: https://groups.google.com/a/withzodiac.com/forum/#!forum/cad
+
+Contact: https://groups.google.com/a/withzodiac.com/forum/#!forum/contact
+
+Electronics: https://groups.google.com/a/withzodiac.com/forum/#!forum/electronics
+
+Marketing: https://groups.google.com/a/withzodiac.com/forum/#!forum/marketing
+
+Programming: https://groups.google.com/a/withzodiac.com/forum/#!forum/programming
+
+
+
 ## Trello
 
 Team Link: https://trello.com/zodiacefz
