@@ -10,6 +10,8 @@ Programming: contact@withzodiac.com
 
 Electronics: contact@withzodiac.com
 
+CAD: cad@withzodiac.com
+
 Contact: contact@withzodiac.com
 
 Website: frc.hsefz.org
@@ -68,7 +70,7 @@ Notifications: https://zodiacefz.slack.com/messages/notification/
 
 ## Calendar
 
-FRC Updates: xxx@google.com
+FRC Updates: https://www.google.com/calendar/render?cid=hsefz.org_hpauaea99i4f6uhf12doa0jsig@group.calendar.google.com
 
 ## Internal System
 
