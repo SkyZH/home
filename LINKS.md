@@ -58,19 +58,19 @@ Programming: https://groups.google.com/a/withzodiac.com/forum/#!forum/programmin
 
 Team Link: https://trello.com/zodiacefz
 
-CAD: https://trello.com/b/aOXp6u76/cad
+CAD: https://trello.com/b/aOXp6u76/
 
-Team: https://trello.com/b/2eLnCxjJ/-
+Team: https://trello.com/b/2eLnCxjJ/
 
-Travel: https://trello.com/b/RKsLSOcN/-
+Travel: https://trello.com/b/RKsLSOcN/
 
-Marketing: https://trello.com/b/ZC8w6Z3v/-
+Marketing: https://trello.com/b/ZC8w6Z3v/
 
-Budget: https://trello.com/b/70D1L5gJ/-
+Budget: https://trello.com/b/70D1L5gJ/
 
-Electronics: https://trello.com/b/eC68d3Pp/-
+Electronics: https://trello.com/b/eC68d3Pp/
 
-Programming: https://trello.com/b/9kdoQXN8/-
+Programming: https://trello.com/b/9kdoQXN8/
 
 ## Slack
 
