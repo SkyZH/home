@@ -30,9 +30,19 @@ Google Classroom: classroom.google.com
 
 Inbox: inbox.google.com
 
-Gmail: mail.google.com
-
 Contacts: contacts.google.com
+
+Hangouts: https://hangouts.google.com
+
+Drive: https://drive.google.com/a/withzodiac.com
+
+Calendar: https://www.google.com/calendar/hosted/withzodiac.com
+
+Gmail: https://mail.google.com/a/withzodiac.com
+
+Google Groups: https://groups.google.com/a/withzodiac.com
+
+## Contacts
 
 All Team Contacts: https://contacts.google.com/preview/directory
 
